@@ -1,0 +1,12 @@
+\documentclass{standalone}
+
+\begin{document}
+
+\begin{tikzpicture}[node distance=4cm]
+
+    \node[inner sep=0pt, scale=0.1] (rve) at (0,0) {\includegraphics[width=1.4\textwidth]{figures/sputnik_github.png}};
+    \node[inner sep=0pt, scale=0.1] (rve) at (0,0.6) {\url{https://github.com/GG1991/sputnik}};
+
+ \end{tikzpicture}
+
+\end{document}
